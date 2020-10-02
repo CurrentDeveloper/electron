@@ -16,7 +16,7 @@ editor](https://github.com/atom/atom) and many other [apps](https://electronjs.o
 Follow [@ElectronJS](https://twitter.com/electronjs) on Twitter for important
 announcements.
 
-This project adheres to the Contributor Covenant
+This project adheres to the Contributor Covenant.
 [code of conduct](https://github.com/electron/electron/tree/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to [coc@electronjs.org](mailto:coc@electronjs.org).
